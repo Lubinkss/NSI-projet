@@ -4,7 +4,7 @@
 _____________
 ● Je suis en terminale générale 
 ● Spécialité Maths et NSI
-
+_____
 
 👾 Informatique 
 _____________
