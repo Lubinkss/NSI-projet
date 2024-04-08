@@ -2,11 +2,12 @@
 
 🧑 Identité
 _____________
-● Je suis en terminale générale 
+\● Je suis en terminale générale 
 ● Spécialité Maths et NSI
 
 
-👾 Informatique :
+👾 Informatique 
+_____________
 ● Pyhton
 ● Html / Css
 
