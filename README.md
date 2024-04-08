@@ -10,5 +10,5 @@ _____________
 _____________
 ● Pyhton
 ● Html / Css
-
+_____________
 Ici seront déposés mes différents projets liés à ma spécialité NSI ou des travaux personnels
