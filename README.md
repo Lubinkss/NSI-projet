@@ -2,7 +2,7 @@
 
 🧑 Identité
 _____________
-\● Je suis en terminale générale 
+● Je suis en terminale générale 
 ● Spécialité Maths et NSI
 
 
