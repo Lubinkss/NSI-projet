@@ -1,3 +1,11 @@
 # NSI-projet
 
-Ici seront disposé mes différents projets lié à ma spécialité NSI ou bien des travaux personels
+🧑 Identité :
+    Je suis en terminale générale 
+    Spécialité Maths et NSI
+Ici seront déposés mes différents projets liés à ma spécialité NSI ou des travaux personnels
+
+👾 Informatique :
+    Pyhton
+    Html / Css
+
